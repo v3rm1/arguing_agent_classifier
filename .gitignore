@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+cats_vs_dogs.zip
